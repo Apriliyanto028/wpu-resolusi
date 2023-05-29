@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 
+- HTML
+- CSS
 - Javascript
 - PHP Framework
 - Interview
