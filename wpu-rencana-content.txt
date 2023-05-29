@@ -4,5 +4,6 @@ RENCANA KONTEN WPU
 - CSS
 - Javascript
 - PHP Framework
+- Fundamental Data Structure
 - Interview
 - Vlog
